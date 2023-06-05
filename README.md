@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ayush Srivastava</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
+<img align="right" alt="Coding" width="400" src="https://i.gifer.com/81RA.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayush11122&label=Profile%20views&color=0e75b6&style=flat" alt="ayush11122" /> </p>
 
