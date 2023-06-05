@@ -1,4 +1,5 @@
-[ayush](/bannerr.png)
+![bannerr](https://github.com/ayush11122/ayush11122/assets/94779733/c4303665-6dcc-4374-b216-adef99bbbb35)
+
 # 💫 About Me:
 👋🏻  Hi, I'm Ayush <br>👨🏻‍🎓 I'm a Student and Developer.<br>🌱 I’m currently learning DevOps.<br>🤝 You can reach me at: ad.ayushsrivastava11122@gmail.com<br>💬 Ask me about anything.<br>
 
