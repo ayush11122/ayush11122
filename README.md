@@ -1,3 +1,4 @@
+[ayush](/bannerr.png)
 # 💫 About Me:
 👋🏻  Hi, I'm Ayush <br>👨🏻‍🎓 I'm a Student and Developer.<br>🌱 I’m currently learning DevOps.<br>🤝 You can reach me at: ad.ayushsrivastava11122@gmail.com<br>💬 Ask me about anything.<br>
 
