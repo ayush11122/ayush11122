@@ -1,3 +1,4 @@
+![Banner Description](./bannerr.png)
 <h1 align="center">Hi 👋, I'm Ayush Srivastava</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://i.gifer.com/81RA.gif">
@@ -8,7 +9,7 @@
 
 - 📫 How to reach me **ad.ayushsrivastava11122@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1yOeYW6hauDEIYmRNFAGfMbdiahgjQ2wC/view?usp=sharing](https://drive.google.com/file/d/1yOeYW6hauDEIYmRNFAGfMbdiahgjQ2wC/view?usp=sharing)
+- 📄 Know about my experiences [Resume 📄](https://drive.google.com/file/d/1yOeYW6hauDEIYmRNFAGfMbdiahgjQ2wC/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
